@@ -19,7 +19,7 @@ It’s a classic systems programming project that demonstrates strong knowledge 
 
 ---
 ## Example Usage: 
-myshell> ls -l
-myshell> echo $HOME
-myshell> cat input.txt | grep "hello" > output.txt
-myshell> ./a.out < input.txt >> log.txt
+ myshell> ls -l
+ myshell> echo $HOME
+ myshell> cat input.txt | grep "hello" > output.txt
+ myshell> ./a.out < input.txt >> log.txt
