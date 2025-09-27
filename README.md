@@ -18,7 +18,7 @@ It’s a classic systems programming project that demonstrates strong knowledge 
 - Error handling and memory management  
 
 ---
-##Example Usage: 
+## Example Usage: 
 myshell> ls -l
 myshell> echo $HOME
 myshell> cat input.txt | grep "hello" > output.txt
